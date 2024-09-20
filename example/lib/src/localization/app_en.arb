@@ -1,0 +1,11 @@
+{
+  "appTitle": "Simli Demo Application",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "homepage": "Homepage",
+  "project": "Project",
+  "aboutUs": "About us",
+  "faqS": "FAQ's",
+  "totalDownload": "Total download"
+}

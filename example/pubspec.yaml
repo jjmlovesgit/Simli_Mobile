@@ -1,0 +1,59 @@
+name: example
+description: "A new Flutter project."
+
+# Prevent accidental publishing to pub.dev.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  cached_network_image: ^3.3.1
+  deepgram_speech_to_text: ^2.2.2
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_spinkit: ^5.2.1
+  flutter_webrtc:  
+  gap: ^3.0.1
+  go_router: ^14.2.1
+  groq: ^0.0.5
+  line_icons: ^2.0.3
+  record: ^5.1.2
+  simli_client:
+    path: ../../simli_client
+  transparent_image: ^2.0.1
+  url_launcher: ^6.3.0
+
+
+
+
+  image_network: ^2.5.6
+  mesh_gradient: ^1.3.7
+  groq_sdk: ^0.1.0
+  carousel_slider: ^5.0.0
+  font_awesome_flutter: ^10.7.0
+  lottie: ^3.1.2
+  deepgram_sdk:
+    git:
+      url: https://github.com/jemisgoti/deepgram-flutter-sdk
+      ref: main
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Enable generation of localized Strings from arb files.
+  generate: true
+
+  assets:
+    # Add assets from the images directory to the application.
+    - assets/images/
+    - assets/jsons/
