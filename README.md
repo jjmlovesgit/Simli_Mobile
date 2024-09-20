@@ -97,13 +97,13 @@ This package also includes additional methods and parameters to help you build a
 
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/jemisgoti/simli_flutter_client/master/preview/1.png" height="399" width="756" alt="Avatar Preview"/><br /><sub><b>Avatar</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/jemisgoti/simli-flutter-client/master/preview/1.png" height="399" width="756" alt="Avatar Preview"/><br /><sub><b>Avatar</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/jemisgoti/simli_flutter_client/master/preview/2.png" height="500px" alt="Conversation Preview"/><br /><sub><b>Conversation</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/jemisgoti/simli-flutter-client/master/preview/2.png" height="500px" alt="Conversation Preview"/><br /><sub><b>Conversation</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/jemisgoti/simli_flutter_client/master/preview/1.gif" height="500px" alt="Demo Preview"/><br /><sub><b>Demo</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/jemisgoti/simli-flutter-client/master/preview/1.gif" height="500px" alt="Demo Preview"/><br /><sub><b>Demo</b></sub></td>
   </tr>
 </table>
 
